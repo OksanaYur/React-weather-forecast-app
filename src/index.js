@@ -10,7 +10,7 @@ return (
     <Search />
     <div>
     <footer>
-    Coded by <a href="https://github.com/OksanaYur/React-weather-forecast-app" target="_blank">
+    Coded by <a href="https://github.com/OksanaYur/React-weather-forecast-app" target="_blank" rel="noreferrer">
     OksanaYuriychuk</a>
   </footer></div>
   </div>
