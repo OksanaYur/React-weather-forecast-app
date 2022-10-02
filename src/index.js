@@ -8,7 +8,13 @@ return (
   <div className="App">
     <h1>Weather App</h1>
     <Search />
+    <div>
+    <footer>
+    Coded by <a href="https://github.com/OksanaYur/React-weather-forecast-app" target="_blank">
+    OksanaYuriychuk</a>
+  </footer></div>
   </div>
+  
 );
 }
 
